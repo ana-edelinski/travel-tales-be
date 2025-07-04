@@ -2,10 +2,6 @@
 
 Academic project for Software Design course, Faculty of Technical Sciences, University of Novi Sad
 
-<p align="center">
-  <img src="Screenshots/home.png" alt="Logo">
-</p>
-
 ## About Project
 
 Travel Tales is a feature-rich web application developed using ASP.NET Core, PostgreSQL, Entity Framework, AutoMapper, and xUnit for testing. The platform supports three user roles: admin, tourists, and tour creators.
@@ -45,9 +41,9 @@ The project was developed by a 16-member team using the Agile methodology, with 
 
 
 ## Screenshots
+![Home](Screenshots/home.png)
 ![Clubs](Screenshots/clubs.png)
+![Quiz](Screenshots/quiz.png)
 ![Map](Screenshots/map.png)
 ![Clubs2](Screenshots/clubs2.png)
-![Quiz](Screenshots/quiz.png)
-![Blogs](Screenshots/turista-blogs.png)
-![ChatBot](Screenshots/chatbot.png)
+![ChatBot](Screenshots/chatbot2.png)
