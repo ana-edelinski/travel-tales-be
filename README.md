@@ -4,7 +4,7 @@ Academic project for Software Design course, Faculty of Technical Sciences, Univ
 
 ## About Project
 
-Travel Tales is a feature-rich web application developed using ASP.NET Core, PostgreSQL, Entity Framework, AutoMapper, and tested using xUnit. The platform supports three user roles: admin, tourists, and tour creators, offering a rich set of features designed to enhance digital travel experiences.
+Travel Tales is a full-stack web application built with Angular and Angular Material on the frontend, and ASP.NET Core, PostgreSQL, Entity Framework, and AutoMapper on the backend, with testing handled via xUnit. The platform supports three user roles: admin, tourists, and tour creators, offering a rich set of features designed to enhance digital travel experiences.
 
 ✨ Key Features:
 
